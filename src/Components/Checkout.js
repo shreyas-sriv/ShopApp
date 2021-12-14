@@ -85,7 +85,7 @@ const returnAlert = function () {
                         <PaymentCard />
                     </div>
 
-                    <div class="d-grid gap-2 mt-3 mb-5 ms-7 w-50 ">
+                    <div class="d-grid gap-2 mt-3 mb-5 ms-5 w-50 ">
                         <PayBtn paymentSuccessUpdate = {updatePaymentSuccessFlag}/>
                     </div>
                 </div>

@@ -1,3 +1,8 @@
+# About the ShopApp application
+
+This app lets the user select items by clicking on the "Add to cart" button from the list of items on the first screen and clicking on the cart button takes the user to the checkout page where items selected in the first screen is visible with the required quantity. In this page a payment option is available where a user can enter the card details for making a payment and click on “Pay Now” button.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

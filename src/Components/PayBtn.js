@@ -11,9 +11,13 @@ function PayBtn({paymentSuccessUpdate}) {
         paymentSuccessUpdate(true);
         dispatch(setClearProductCart());
     }
+
+    let btnStyle = {
+        "width":'70%'
+    }
     return (
         <div>
-            <button type="button" onClick={() => { UsePayment() }} className="btn btn-primary btn-block">Pay Now </button>
+            <button type="button" onClick={() => { UsePayment() }} className="btn btn-primary" style={btnStyle}>Pay Now </button>
         </div>
 
     )
