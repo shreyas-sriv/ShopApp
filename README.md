@@ -2,6 +2,9 @@
 
 This app lets the user select items by clicking on the "Add to cart" button from the list of items on the first screen and clicking on the cart button takes the user to the checkout page where items selected in the first screen is visible with the required quantity. In this page a payment option is available where a user can enter the card details for making a payment and click on “Pay Now” button.
 
+Screenshots:
+![Screen 2](https://user-images.githubusercontent.com/16819919/145987631-e227be79-ded1-4fed-8ec0-547ba2645185.png)
+![Screen 1](https://user-images.githubusercontent.com/16819919/145987637-2e95e8b8-154d-4ded-89b0-611be5003267.png)
 
 # Getting Started with Create React App
 
