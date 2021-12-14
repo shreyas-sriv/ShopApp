@@ -1,0 +1,51 @@
+.half-containers {
+    flex: 2;
+    justify-content: space-between;
+}
+.half-containers-1  {
+    flex: 1;
+}
+
+.checkout-container {
+    display: flex;
+}
+
+
+.price-details {
+    border: 2px solid #e7e7e7;
+    border-radius: 10px;
+    padding: .5rem;
+    text-align: left;
+    width: 80%;
+}
+
+.checkout-card {
+    border: 2px solid #e7e7e7;
+    border-radius: 5px;
+    padding: .5rem;
+    height: 85vh;
+}
+.price-block{
+    display: inline-block; 
+    text-align: left;
+}
+
+.price-card {
+        border: 2px solid #e7e7e7;
+        border-radius: 4px;
+        padding: .5rem;
+        width:30% ;
+    
+}
+
+.w-64 {
+    width:64%!important
+}
+.ms-7 {
+    margin-left: 5rem!important;
+}
+
+.cart-item-container{
+    display: flex;
+    flex-wrap: wrap;
+}
